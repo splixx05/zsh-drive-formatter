@@ -6,7 +6,7 @@ With this (written with gum) any kind of storage media can be formatted (USB, mo
 without any GUI. The only thing you need is a terminal.
 
 > Note:
-> This repository is currently not inactive. It is neither maintained nor further developed. Requests will not be processed. Ideas can be submitted, but a timely response should not be expected. Thank you for your understanding.
+> This repository is currently inactive. It is neither maintained nor further developed. Requests will not be processed. Ideas can be submitted, but a timely response should not be expected. Thank you for your understanding.
 
 ---
 

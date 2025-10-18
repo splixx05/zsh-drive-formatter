@@ -1,7 +1,7 @@
 # open a new tmux window for this function
 # otherwise the function will be run in the current terminal
 
-SRC="${XDG_CONGIG_HOME:-$HOME/.zsh}/plugins/local/zsh-drive-formatter"
+SRC="${ZSH:-$HOME/.zsh}/plugins/local/zsh-drive-formatter"
 
 function :format() {
   if [[ -n $TMUX ]]; then
